@@ -1,4 +1,5 @@
 Project Overview
+
 Purpose
 The software is a real-time assistive perception system designed to run on a server and interact with one or more client devices over WebSockets. It ingests a live video stream, performs multiple vision-based tasks in parallel, and returns actionable results to the client:
 
