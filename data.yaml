@@ -1,0 +1,11 @@
+# Path to training images
+train: jaad_dataset/images/train
+
+# Path to validation images
+val: jaad_dataset/images/val
+
+# Number of classes (in this example, 4)
+nc: 4
+
+# Class names corresponding to the class IDs used in your label files.
+names: ["pole", "traffic light", "traffic sign", "sidewalk"]

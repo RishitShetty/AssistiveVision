@@ -1,0 +1,15 @@
+# requirements.txt
+asyncio
+websockets
+opencv-python
+numpy
+face-recognition
+requests
+easyocr
+pandas
+faiss-cpu
+sentence-transformers
+torch
+ultralytics
+pyttsx3
+openpyxl

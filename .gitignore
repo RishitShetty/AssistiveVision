@@ -1,0 +1,132 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Model files (CRITICAL - these are huge!)
+*.pt
+*.pth
+*.h5
+*.pkl
+*.onnx
+*.tflite
+*.pb
+
+# Generated/cached files
+*.npy
+medicine_embeddings.npy
+face_db.json
+*.cache
+
+# Video outputs
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.webm
+output_with_depth.mp4
+
+# Dataset files (these are massive!)
+OCR_pharmaData/
+JAAD_datasets/
+Face_data/
+datasets/
+data/
+*.xlsx
+*.csv
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Audio files (if any)
+*.wav
+*.mp3
+*.ogg
+
+# Image files (if not needed in repo)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
