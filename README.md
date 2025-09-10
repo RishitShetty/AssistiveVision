@@ -75,10 +75,9 @@ JAAD provides dash-cam style pedestrian-rich sequences that mimic a blind user�
 Offline benchmark – feed prerecorded JAAD frames through the pipeline to measure detection accuracy, depth-error, and false-alert rate.
 
 MiDaS Depth Detection Video: 
+![bdd100k_depth_gray](https://github.com/user-attachments/assets/75dff88e-1409-405b-a1d2-a646f8f2d7b8)
 
-https://github.com/user-attachments/assets/307575dc-ed77-44fd-92d8-dce6af6f397e
-
-https://github.com/user-attachments/assets/a3c88f33-a5b0-494c-bab7-81ecf78f9877
+![bdd100k_depth_colored](https://github.com/user-attachments/assets/0aba0054-83b5-4026-b4a9-0d511c402c10)
 
 Live simulation – stream a JAAD video over WebSockets from a client script, letting the server treat it as a real user feed.
 
