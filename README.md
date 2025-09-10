@@ -1,4 +1,5 @@
 Project Overview
+![clean_detection_no_text](https://github.com/user-attachments/assets/6302ee6f-2699-4c77-a339-b40d092fce1e)
 
 Purpose
 The software is a real-time assistive perception system designed to run on a server and interact with one or more client devices over WebSockets. It ingests a live video stream, performs multiple vision-based tasks in parallel, and returns actionable results to the client:
