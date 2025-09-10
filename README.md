@@ -74,6 +74,12 @@ JAAD provides dash-cam style pedestrian-rich sequences that mimic a blind user�
 
 Offline benchmark – feed prerecorded JAAD frames through the pipeline to measure detection accuracy, depth-error, and false-alert rate.
 
+MiDaS Depth Detection Video: 
+
+https://github.com/user-attachments/assets/307575dc-ed77-44fd-92d8-dce6af6f397e
+
+https://github.com/user-attachments/assets/a3c88f33-a5b0-494c-bab7-81ecf78f9877
+
 Live simulation – stream a JAAD video over WebSockets from a client script, letting the server treat it as a real user feed.
 
 Because JAAD includes bounding-box and behavioral annotations, it is ideal for verifying that the YOLO-MiDaS fusion correctly flags pedestrians at dangerous distances, refining the proximity thresholds, and tuning model confidence.
