@@ -84,3 +84,8 @@ MiDaS Depth Detection Video:
 Live simulation – stream a JAAD video over WebSockets from a client script, letting the server treat it as a real user feed.
 
 Because JAAD includes bounding-box and behavioral annotations, it is ideal for verifying that the YOLO-MiDaS fusion correctly flags pedestrians at dangerous distances, refining the proximity thresholds, and tuning model confidence.
+
+PCB design consisting of the amplifier
+<img width="769" height="657" alt="image" src="https://github.com/user-attachments/assets/42b8c81c-f579-4ddd-bde1-fcce7c3acdc7" />
+<img width="1376" height="879" alt="image" src="https://github.com/user-attachments/assets/d90195f4-9364-406c-ab98-f81de0497fb2" />
+
